@@ -1,0 +1,7 @@
+{
+  "name": "DocuTalk",
+  "description": "Conversa con tus documentos a través de avatares amigables usando IA de voz en tiempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

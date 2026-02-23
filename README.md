@@ -45,7 +45,7 @@ Permite la interacción con documentos y audio de manera sencilla y eficiente.
    ```powershell
    .\run-docker.ps1
    ```
-3. Accede a la aplicación en [http://localhost:8080](http://localhost:8080)
+3. Accede a la aplicación en [http://localhost:8080](http://localhost:80)
 
 > **Nota:** Para usar Gemini API en Docker, asegúrate de pasar la variable de entorno al contenedor si es necesario.
 
